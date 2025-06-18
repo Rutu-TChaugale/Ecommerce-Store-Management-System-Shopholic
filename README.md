@@ -202,8 +202,7 @@ This project is for educational purposes. You may modify and use it freely.
 
 **Rutika Chaugale**
 💼 Passionate Java Developer | Building full-stack projects
-📬 \[Add your contact or GitHub link here]
+📬 \(https://github.com/Rutu-TChaugale?tab=repositories)
 
----
 
-Let me know if you'd like to include diagrams (like ERD or architecture) or screenshots — I can generate them for you based on what’s inside.
+
